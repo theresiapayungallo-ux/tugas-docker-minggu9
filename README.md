@@ -33,8 +33,16 @@ Setelah itu buka http://localhost:8082 di browser.
 
 Halaman profil di browser:
 
-![Halaman profil](screenshot-browser.png)
+![Halaman profil](localhost-8082.png)
 
-Terminal setelah `docker ps` dan `docker images`:
+Hasil docker ps:
 
-![Terminal](screenshot-terminal.png)
+![docker ps](docker-ps.png)
+
+Hasil docker images:
+
+![docker images](docker-images.png)
+
+Halaman repositori GitHub:
+
+![Halaman repositori GitHub](Halaman%20Repositori%20GitHub.png)
